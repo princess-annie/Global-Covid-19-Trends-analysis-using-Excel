@@ -7,8 +7,7 @@ changed.
 <img width="1163" height="546" alt="Screenshot 2026-02-17 200148" src="https://github.com/user-attachments/assets/d1063be3-f888-481e-830e-60ec57a9843c" />
 
 # DATA SOURCE: 
-The data was gotten from datahub.io and no data cleaning was required
-but added extra columns for analysis
+The data was gotten from datahub.io and i added extra columns for analysis
 
 TOOL USED: Excel
 
