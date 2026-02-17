@@ -64,6 +64,6 @@ VISUALIZATIONS
 <img width="457" height="181" alt="Screenshot 2026-02-17 204017" src="https://github.com/user-attachments/assets/5341ed1e-6a04-4ed2-8a63-55a01bad40b1" />
 
 # Detailed Analysis & Recommendations
-For in-depth analysis, read my article on [Medium]([https://medium.com/@princessjames563/global-covid-19-trends-analysis-2020-august-2021-using-excel-0c2d444a7cde])
+For in-depth analysis, read my article on [Medium]([your-medium-link-here])
 
 
